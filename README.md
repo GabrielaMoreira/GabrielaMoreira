@@ -20,7 +20,7 @@ I'am a front-end developer, UX/UI designer and a data scientist living in Brazil
 ###  What I’m currently up to
 ---
 
-<img src="Cool Kids - Working Shift.png" width="30%" height="30%" align="right">
+<img src="media/img/Cool Kids - Working Shift.png" width="30%" height="30%" align="right">
 
   
 |         Programing         |            Front-End          |            UX & Design           |           Data Science       |    Innovation </br>&</br> Management     |
