@@ -1,19 +1,10 @@
-<!--
-**GabrielaMoreira/GabrielaMoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<p align="center">
-:construction_worker: :warning: under construction :warning: :construction_worker:
-</p>
 
 <p align="center">
   <img src="/media/img/header.png" />
 </p>
 
-###  Hi there 👋
----
-
 <p align="justify">
-I'am a front-end developer, UX/UI designer and a data scientist living in Brazil. I'm  currently doing my postgraduate in data science with a International Big Data Certification while working on improve and learn new programing languages and technologies as well other projects. I am passionate about art and culture in general, so when not coding it's more like a big ball of wibbly wobbly... time-y wimey... stuff! :smiley: :blush: :stuck_out_tongue_winking_eye:
+I'am a front-end developer, UX/UI designer and a data scientist living in Brazil. I'm  currently doing my postgraduate in data science with a International Big Data Certification while working on improve and learn new programing languages and technologies as well other projects. I am passionate about art and culture in general, so when not coding it's more like a big ball of wibbly wobbly... time-y wimey... stuff!
 </p>
 
 
