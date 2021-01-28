@@ -6,6 +6,27 @@
 <p align="justify">
 I'am a front-end developer, UX/UI designer and a data scientist living in Brazil. I'm  currently doing my postgraduate in data science with a International Big Data Certification while working on improve and learn new programing languages and technologies as well other projects. I am passionate about art and culture in general, so when not coding it's more like a big ball of wibbly wobbly... time-y wimey... stuff!
 </p>
+<p align="center">
+  <a href="https://github.com/GabrielaMoreira">
+    <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='15'>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/profile-gabriela-moreira/">
+    <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='15'>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://gabrielamoreira.github.io/">
+    <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='15'>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+   <a href="https://www.behance.net/">
+    <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='15'>
+  </a>  
+  &nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/7092253/gabriela-moreira">
+    <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='15'>
+  </a>   
+</p>
 
 
 ###  What I’m currently up to
@@ -21,32 +42,6 @@ I'am a front-end developer, UX/UI designer and a data scientist living in Brazil
 | Wordpress                  | ReactJS                       | Figma                            | PowerBI                      |                                          |
 | C#                         |                               |                                  | Excel VBA                    |                                          |
 |                            |                               |                                  | Python for Stats             |                                          |
-
-
-###  Find me around the web
----
-
-<p align="center">
-  <a href="https://github.com/GabrielaMoreira">
-    <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/profile-gabriela-moreira/">
-    <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://gabrielamoreira.github.io/">
-    <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-   <a href="https://www.behance.net/">
-    <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>
-  </a>  
-  &nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/7092253/gabriela-moreira">
-    <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>
-  </a>   
-</p>
 
 
 ### Github Statistics
