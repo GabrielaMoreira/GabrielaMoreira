@@ -29,7 +29,7 @@ I'am a front-end developer, UX/UI designer and a data scientist living in Brazil
 </p>
 
 
-#### What I’m currently up to 
+### What I’m currently up to 
 ------
 
 <img src="media/img/side-image.png" width="30%" height="30%" align="right">
@@ -44,7 +44,7 @@ I'am a front-end developer, UX/UI designer and a data scientist living in Brazil
 |                            |                               |                                  | Python for Stats             |                                          |
 
 
-#### Github Statistics 
+### Github Statistics 
 ------
 
 <p align="center">
