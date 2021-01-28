@@ -30,7 +30,7 @@ I'am a front-end developer, UX/UI designer and a data scientist living in Brazil
 
 
 ###  What I’m currently up to
----
+-
 
 <img src="media/img/side-image.png" width="30%" height="30%" align="right">
 
@@ -45,7 +45,7 @@ I'am a front-end developer, UX/UI designer and a data scientist living in Brazil
 
 
 ### Github Statistics
----
+-
 
 <p align="center">
   <a href="https://github.com/GabrielaMoreira">
