@@ -4,7 +4,7 @@
 </p>
 
 <p align="justify">
-I'am a front-end developer, UX/UI designer and a data scientist living in Brazil. I'm  currently doing my postgraduate in data science with a International Big Data Certification while working on improve and learn new programing languages and technologies as well other projects. I am passionate about art and culture in general, so when not coding it's more like a big ball of wibbly wobbly... time-y wimey... stuff!
+I'am a front-end developer, UX/UI designer and a data scientist living in Brazil. I'm  currently doing my postgraduate in data science with a International Big Data Certification while working on improve and learn new programing languages and technologies as well other projects. I love art and culture in general, so when not coding it's like like a big ball of wibbly wobbly... time-y wimey... stuff!
 </p>
 <p align="center">
   <a href="https://github.com/GabrielaMoreira">
