@@ -19,7 +19,7 @@ I'am a front-end developer, UX/UI designer and a data scientist living in Brazil
     <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='15'>
   </a>
   &nbsp;&nbsp;&nbsp;
-   <a href="https://www.behance.net/">
+   <a href="https://www.behance.net/gabriela-moreira">
     <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='15'>
   </a>  
   &nbsp;&nbsp;
