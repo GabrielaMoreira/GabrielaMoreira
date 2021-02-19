@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="/media/img/header.png" />
+  <img src="/media/img/header-re.png" />
 </p>
 
 <p align="center">
@@ -9,23 +9,23 @@ I'm currently pursuing my postgraduate in data science with a International Big 
 </p>
 <p align="center">
   <a href="https://github.com/GabrielaMoreira">
-    <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='15'>
+    <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/profile-gabriela-moreira/">
-    <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='15'>
+    <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='18'>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://gabrielamoreira.github.io/">
-    <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='15'>
+    <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='18'>
   </a>
   &nbsp;&nbsp;&nbsp;
    <a href="https://www.behance.net/gabriela-moreira">
-    <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='15'>
+    <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='18'>
   </a>  
   &nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/7092253/gabriela-moreira">
-    <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='15'>
+    <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='18'>
   </a>   
 </p>
 
@@ -33,7 +33,7 @@ I'm currently pursuing my postgraduate in data science with a International Big 
 ## What I’m currently up to 
 
 
-<img src="media/img/side-image.png" width="30%" height="30%" align="right">
+<img src="media/img/side-image-re.png" width="30%" height="30%" align="right">
 
   
 |         Programing         |            Front-End          |            UX & Design           |           Data Science       |    Innovation </br>&</br> Management     |
@@ -59,6 +59,6 @@ I'm currently pursuing my postgraduate in data science with a International Big 
 </p>
 
 <p align="center">
-  <img src="/media/img/footer.png" />
+  <img src="/media/img/footer-re.png" />
 </p>
 
