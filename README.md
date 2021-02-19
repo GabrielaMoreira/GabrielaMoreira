@@ -33,7 +33,7 @@ I'm currently pursuing my postgraduate in data science with a International Big 
 ## What I’m currently up to 
 
 
-<img src="media/img/side-image-small-re.png" width="30%" height="30%" align="right">
+<img src="media/img/side-image-50.png" width="30%" height="30%" align="right">
 
   
 |         Programing         |            Front-End          |            UX & Design           |           Data Science       |    Innovation </br>&</br> Management     |
