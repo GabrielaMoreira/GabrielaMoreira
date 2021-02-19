@@ -3,7 +3,7 @@
   <img src="/media/img/header.png" />
 </p>
 
-<p align="justify">
+<p align="center">
 I'am a Front-End Developer, UX/UI Designer, RPA UiPath Developer and a Data Scientist living in Brazil.</br>
 I'm currently pursuing my postgraduate in data science with a International Big Data Certification while working on improve and learn new programing languages and technologies as well other projects. I love art and culture in general, so when not coding it's like like a big ball of wibbly wobbly... time-y wimey... stuff!
 </p>
