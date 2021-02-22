@@ -33,17 +33,7 @@ I'm currently pursuing my postgraduate in data science with a International Big 
 ## What I’m currently up to 
 
 
-<img src="media/img/table.jpg" width="100%" height="100%" align="center">
-
-<!--
-|         Programing         |            Front-End          |            UX & Design           |           Data Science       |    Innovation </br>&</br> Management     |
-|            :-:             |              :-:              |                :-:               |               :-:            |                    :-:                   |
-| PHP                        | HTML & CSS                    | UX Design </br>&</br> Research   | Microsoft </br> SQL Server   | Cobit5                                   |
-| Asp.Net Core               | Angular                       | Adobe XD                         | MySQL Server </br> Oracle    | UiPath                                   |
-| Wordpress                  | ReactJS                       | Figma                            | PowerBI                      |                                          |
-| C#                         |                               |                                  | Excel VBA                    |                                          |
-|                            |                               |                                  | Python for Stats             |                                          |
--->
+<img src="media/img/table.jpg" width="60%" height="60%" align="center">
 
 ## Github Statistics 
 
