@@ -33,7 +33,7 @@ I'm currently pursuing my postgraduate in data science with a International Big 
 ## What I’m currently up to 
 
 
-<img src="media/img/table.jpg" width="60%" height="60%" align="center">
+<img src="media/img/table.jpg" width="100%" height="60%" align="center">
 
 ## Github Statistics 
 
