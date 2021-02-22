@@ -1,0 +1,9 @@
+<!--
+|         Programing         |            Front-End          |            UX & Design           |           Data Science       |    Innovation </br>&</br> Management     |
+|            :-:             |              :-:              |                :-:               |               :-:            |                    :-:                   |
+| PHP                        | HTML & CSS                    | UX Design </br>&</br> Research   | Microsoft </br> SQL Server   | Cobit5                                   |
+| Asp.Net Core               | Angular                       | Adobe XD                         | MySQL Server </br> Oracle    | UiPath                                   |
+| Wordpress                  | ReactJS                       | Figma                            | PowerBI                      |                                          |
+| C#                         |                               |                                  | Excel VBA                    |                                          |
+|                            |                               |                                  | Python for Stats             |                                          |
+-->

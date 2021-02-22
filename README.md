@@ -33,9 +33,9 @@ I'm currently pursuing my postgraduate in data science with a International Big 
 ## What I’m currently up to 
 
 
-<img src="media/img/side-image-50.png" width="30%" height="31%" align="right">
+<img src="media/img/table.jpg" width="100%" height="100%" align="center">
 
-  
+<!--
 |         Programing         |            Front-End          |            UX & Design           |           Data Science       |    Innovation </br>&</br> Management     |
 |            :-:             |              :-:              |                :-:               |               :-:            |                    :-:                   |
 | PHP                        | HTML & CSS                    | UX Design </br>&</br> Research   | Microsoft </br> SQL Server   | Cobit5                                   |
@@ -43,7 +43,7 @@ I'm currently pursuing my postgraduate in data science with a International Big 
 | Wordpress                  | ReactJS                       | Figma                            | PowerBI                      |                                          |
 | C#                         |                               |                                  | Excel VBA                    |                                          |
 |                            |                               |                                  | Python for Stats             |                                          |
-
+-->
 
 ## Github Statistics 
 
