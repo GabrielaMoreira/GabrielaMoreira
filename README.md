@@ -16,7 +16,7 @@ I'm currently pursuing my postgraduate in data science with a International Big 
     <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='18'>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="">
+  <a href="https://github.com/GabrielaMoreira">
     <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='18'>
   </a>
   &nbsp;&nbsp;&nbsp;
