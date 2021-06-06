@@ -29,10 +29,10 @@ I'm currently pursuing my postgraduate in data science with a International Big 
   </a>   
 </p>
 
-
+<!--
 ## What I’m currently up to 
 
-<!--
+
 <img src="media/img/table.jpg" width="100%" height="42%" align="center">
 -->
 ## Github Statistics 
