@@ -24,9 +24,12 @@ I'm currently pursuing my postgraduate in data science with a International Big 
     <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='18'>
   </a>  
   &nbsp;&nbsp;
+  <a href="https://able-tapir-3be.notion.site/HowCode-Wiki-d31c346c640c4f3787a6b98a79da680e">
+    <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg' alt='notion' height='18'>
+  </a><!--
   <a href="https://stackoverflow.com/users/7092253/gabriela-moreira">
     <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='18'>
-  </a>   
+  </a>-->   
 </p>
 
 <!--
