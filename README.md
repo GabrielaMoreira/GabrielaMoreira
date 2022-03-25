@@ -41,13 +41,13 @@ I'm currently pursuing my postgraduate in data science with a International Big 
 ## Github Statistics 
 
 
-<p align="justify">
+<p align="center">
   <a href="https://github.com/GabrielaMoreira">
-    <img align="center" alt="moreira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GabrielaMoreira&show_icons=true&hide_border=true&theme=dracula" />
+    <img align="center", width="400", height="100", alt="moreira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GabrielaMoreira&show_icons=true&hide_border=true&theme=dracula" />
   </a>
 
   <a href="https://github.com/GabrielaMoreira">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GabrielaMoreira&langs_count=8&layout=compact&theme=dracula" />
+    <img align="center", width="400" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GabrielaMoreira&langs_count=8&layout=compact&theme=dracula" />
   </a>
 </p>
 
