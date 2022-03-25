@@ -41,7 +41,7 @@ I'm currently pursuing my postgraduate in data science with a International Big 
 ## Github Statistics 
 
 
-<p align="center">
+<p align="justify">
   <a href="https://github.com/GabrielaMoreira">
     <img align="center" alt="moreira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GabrielaMoreira&show_icons=true&hide_border=true&theme=dracula" />
   </a>
